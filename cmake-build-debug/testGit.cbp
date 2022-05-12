@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/guira/CLionProjects/testgit/MVS_FizzBuzz.h">
+			<Option target="testGit"/>
+		</Unit>
 		<Unit filename="C:/Users/guira/CLionProjects/testgit/main.c">
 			<Option target="testGit"/>
 		</Unit>

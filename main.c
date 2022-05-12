@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "MVS_FizzBuzz.h"
+
 #define FIZZ "Fizz"
 #define BUZZ "Buzz"
 int main (void) {
@@ -15,5 +17,4 @@ int main (void) {
         }
     }
     return EXIT_SUCCESS;
-
-        }
+}

@@ -3,4 +3,4 @@ project(testGit C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(testGit main.c)
+add_executable(testGit main.c MVS_FizzBuzz.h)
